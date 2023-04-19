@@ -4,6 +4,12 @@
 
 ## Installation Instructions
 
+### To install dependencies
+
+```bash
+npm install
+```
+
 ### To run the application
 
 ```bash
@@ -15,6 +21,10 @@ npm start
 ```bash
 npm test
 ```
+
+### To check if the application is working
+
+1. Open your browser and paster http://localhost:3000
 
 ## Goals
 
